@@ -18,3 +18,9 @@ git add --a <!--All directory & Subdirectory-->
 git add . <!--All Subdirectory-->
 ```
 <br><br>
+#Status
+<br>
+```
+git status
+git status -short
+```
