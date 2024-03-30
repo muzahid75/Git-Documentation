@@ -24,3 +24,23 @@ git add . <!--All Subdirectory-->
 git status
 git status -short
 ```
+<br><br>
+#Unstage<br>
+`
+git rm --cached [filename]
+`
+<br><br>
+#Restor<br>
+`
+git restore [filename]
+`
+<br><br>
+#Delete commit
+<br>
+```
+git reset --soft HEAD^
+git reset HEAD^
+git reset --hard HEAD^
+git revert [commit_id]
+```
+<br><br>
