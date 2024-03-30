@@ -67,3 +67,13 @@ git checkout a
 git checkout main/master
 ```
 <br><br>
+#Mergeing
+<br>
+```
+git branch
+git branch a
+git checkout a
+git checkout main/master
+git merge a
+```
+<br><br>
