@@ -58,3 +58,12 @@ git log
 git log --oneline
 ```
 <br><br>
+#Branching
+<br>
+```
+git branch
+git branch a
+git checkout a
+git checkout main/master
+```
+<br><br>
