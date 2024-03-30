@@ -77,3 +77,11 @@ git checkout main/master
 git merge a
 ```
 <br><br>
+#Local to remote connection<br>
+```
+git remote add origin [link]
+git pull
+git clone [link]
+git push -u origin main/master
+```
+<br><br>
