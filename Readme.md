@@ -86,3 +86,7 @@ git clone [link]
 git push -u origin main/master
 ```
 <br><br>
+#Delete branch
+<br>
+local : 
+`git branch -d [branchname]`
