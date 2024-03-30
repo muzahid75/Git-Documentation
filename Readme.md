@@ -1,4 +1,4 @@
-#Git Documentation
+<p style="text-align:centet;color:green;">Git Documentation</p>
 #Git Version<br>
 `git --version`
 <br><br>
