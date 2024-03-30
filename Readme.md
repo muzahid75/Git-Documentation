@@ -71,8 +71,8 @@ git checkout main/master
 <br>
 ```
 git branch
-git branch a
-git checkout a
+git branch a<!--Create a new branch-->
+git checkout a<!--Switch to new branch-->
 git checkout main/master
 git merge a
 ```
