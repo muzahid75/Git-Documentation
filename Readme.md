@@ -44,3 +44,17 @@ git reset --hard HEAD^
 git revert [commit_id]
 ```
 <br><br>
+#About commit
+<br>
+```
+git checkout [commit_id]
+git show [commit_id]
+```
+<br><br>
+#Log
+<br>
+```
+git log
+git log --oneline
+```
+<br><br>
