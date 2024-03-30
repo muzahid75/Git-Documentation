@@ -90,3 +90,6 @@ git push -u origin main/master
 <br>
 local : 
 `git branch -d [branchname]`
+<br>
+remote
+`git push origin -d [branchname]`
