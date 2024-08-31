@@ -85,6 +85,11 @@ git pull
 git clone [link]
 git push -u origin main/master
 ```
+# Remote Connection Error solution
+```
+git pull --rebase origin main
+git push -u origin main
+```
 <br><br>
 #Delete branch
 <br>
